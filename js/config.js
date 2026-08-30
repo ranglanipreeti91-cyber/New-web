@@ -7,7 +7,7 @@ const CONFIG = {
   // ----------------------------------------------------------
   // PROFILE
   // ----------------------------------------------------------
-  profileName:   "𝔙4𝔒𝔜𝔛𝔛",      // name shown on the card
+  profileName:   "𝔙4𝔒𝔜𝔛𝔛",      // name shown on the cardF
   nameTooltip:   "V4OUXX-",         // tooltip on hover over the name
   nameEffect:    "noise",            // "noise" = TV interference | "none" = plain text
   statusText:    "code. game. sleep. repeat!!", // text below the name (typewriter effect)
@@ -59,7 +59,7 @@ const CONFIG = {
   // Add, remove or reorder. "icon" = path inside assets/icons/
   // ----------------------------------------------------------
   socialLinks: [
-    { name: "Instagram", url: "https://instagram.com/v4oyxx_exe", icon: "assets/icons/instagram.png" },
+    { name: "Instagram", url: "https://instagram.com/v4oyxx.exe", icon: "assets/icons/instagram.png" },
     { name: "Spotify",   url: "https://open.spotify.com/user/31fk6by7vkuons5jzgxfhifsv5m4", icon: "assets/icons/spotify.png" },
     { name: "TikTok",    url: "https://www.tiktok.com/user", icon: "assets/icons/tiktok.png" },
     { name: "OnlyFans",  url: "http://kexart.com/", icon: "assets/icons/onlyfans.png" },
